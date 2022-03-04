@@ -8,7 +8,7 @@
 
         '<ul class="nav-links">\n' +
 
-            '<li><a href="../html/Conocenos.html">Conócenos</a></li>\n' +
+            '<li><a href="../index.html">Conócenos</a></li>\n' +
 
             '<li><a href="../html/Desarrolladores.html">Desarrolladores</a></li>\n' +
 
